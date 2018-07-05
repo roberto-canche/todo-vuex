@@ -18,7 +18,7 @@ var state = {
     ]
 };
 
-var getter = {
+var getters = {
     getTodos: state => state.todos
 };
 
